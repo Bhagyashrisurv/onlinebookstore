@@ -1,0 +1,19 @@
+*
+ {
+margin: 0;
+padding:0;
+}
+body
+{
+   font-family: sans-serif;
+}
+.fa fa-star
+{
+        color: #FFBF00;
+}
+.para
+{
+     width: 100px;
+     height: 150px;
+     float: right;
+}

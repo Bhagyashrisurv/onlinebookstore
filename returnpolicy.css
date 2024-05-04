@@ -1,0 +1,41 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+body
+{
+	background: #FFFFFF;
+	font-family:sans-serif;
+}
+
+.headline
+{
+	
+	display:inline-block;
+	width:80%;
+	height:100vh;
+	float:center;
+	padding: 30px 10px;
+	margin:10%;
+	text-align:left;
+	box-shadow:0 0 15px 1px rgba(37,73,214,0.18);
+	background-color:#1B0A2A;
+
+	
+	
+	
+}
+.headline h1
+{
+	color:#ffffff;
+	margin-top:30px;
+	margin-bottom:50px;
+	
+}
+.headline p
+{
+	color:#ffffff;
+}
